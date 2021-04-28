@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Careerfoundry Projects 
 
-[Project 1 Title](/sample_page)
+[Game popularity project](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
