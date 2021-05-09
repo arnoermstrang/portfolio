@@ -4,12 +4,12 @@
 
 ### Training Projects 
 
-[Game popularity project](/GameCo.html)
+[Game popularity project presentation](/GameCo.html)
 <img src="images/GameCo_front_page.jpg?raw=true"/>
 
 ---
-[Future Project 1](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Game popularity project reflections](/pdf/Project_reflections.pdf)
+<img src="images/reflections.jpg?raw=true"/>
 
 ---
 [Future Project 2](http://example.com/)
