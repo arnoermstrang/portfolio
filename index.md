@@ -12,18 +12,18 @@
 <img src="images/Reflections.jpg?raw=true"/>
 
 ---
-[Future Project 2](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Future Projects](http://example.com/)
+<img src="images/future-downloading.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Future projects 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1](http://example.com/)
+- [Project 2](http://example.com/)
+- [Project 3](http://example.com/)
+- [Project 4](http://example.com/)
+- [Project 5](http://example.com/)
 
 ---
 
