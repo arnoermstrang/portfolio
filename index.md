@@ -4,7 +4,7 @@
 
 ### Training Projects 
 
-[Game popularity project](/sample_page)
+[Game popularity project](/GameCo.html)
 <img src="images/GameCo_front_page.jpg?raw=true"/>
 
 ---
