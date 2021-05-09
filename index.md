@@ -8,11 +8,11 @@
 <img src="images/GameCo_front_page.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Future Project 1](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Future Project 2](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
