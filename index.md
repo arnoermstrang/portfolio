@@ -9,7 +9,7 @@
 
 ---
 [Game popularity project reflections](/pdf/Project_reflections.pdf)
-<img src="images/reflections.jpg?raw=true"/>
+<img src="images/Reflections.jpg?raw=true"/>
 
 ---
 [Future Project 2](http://example.com/)
