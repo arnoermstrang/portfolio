@@ -12,7 +12,7 @@
 <img src="images/Reflections.jpg?raw=true"/>
 
 ---
-[Future Projects](http://example.com/)
+[Influenza season project](/)
 <img src="images/future-downloading.jpg?raw=true"/>
 
 ---
