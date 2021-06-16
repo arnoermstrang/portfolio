@@ -12,7 +12,7 @@
 <img src="images/Reflections.jpg?raw=true"/>
 
 ---
-[Influenza season project](/portfolio/Influenza_project.html)
+[Influenza season project](/Influenza_project.html)
 <img src="images/future-downloading.jpg?raw=true"/>
 
 ---
